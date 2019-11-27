@@ -79,23 +79,6 @@ Directory: ros/melodic/debian/stretch/perception
 
 
 ################################################################################
-# Release: crystal
-
-########################################
-# Distro: ubuntu:bionic
-
-Tags: crystal-ros-core, crystal-ros-core-bionic
-Architectures: amd64, arm64v8
-GitCommit: 1eb48f1275f0a9153d0b0ed088bed338f1a79ead
-Directory: ros/crystal/ubuntu/bionic/ros-core
-
-Tags: crystal-ros-base, crystal-ros-base-bionic, crystal
-Architectures: amd64, arm64v8
-GitCommit: 1eb48f1275f0a9153d0b0ed088bed338f1a79ead
-Directory: ros/crystal/ubuntu/bionic/ros-base
-
-
-################################################################################
 # Release: dashing
 
 ########################################
